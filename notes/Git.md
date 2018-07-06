@@ -39,7 +39,7 @@ Git 的中心服务器用来交换每个用户的修改。没有中心服务器�
 
 # Git 工作流
 
-<div align="center"> <img src="../pics//a1198642-9159-4d88-8aec-c3b04e7a2563.jpg"/> </div><br>
+<div align="center"> <img src="../pics//QQ图片20161129132417.png"/> </div><br>
 
 新建一个仓库之后，当前目录就成为了工作区，工作区下有一个隐藏目录 .git，它属于 Git 的版本库。
 
