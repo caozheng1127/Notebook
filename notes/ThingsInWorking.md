@@ -52,7 +52,7 @@
 
 ### 小技巧
 
-* 使用live template生成注释模板，提高注释效率
+* 使用live templates生成注释模板，提高注释效率
 * 灵活使用TODO
 * 灵活使用git、cvs
 * 自己开发轮子，打成jar包使用
